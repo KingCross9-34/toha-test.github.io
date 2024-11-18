@@ -11,6 +11,7 @@ tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
+123456 test !!!
 Greeting! This is an introduction post. This post tests the followings:
 
 - Hero image is in the same directory as the post.
